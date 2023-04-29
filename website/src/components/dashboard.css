@@ -1,0 +1,27 @@
+nav {
+    color: #fff;
+    height: 50px;
+  }
+  
+nav ul {
+  list-style: none; 
+  display: flex; 
+  justify-content: space-between; 
+  margin: 0;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 0; 
+  align-items: right;
+  font-size: x-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  
+  
+nav ul li button {
+  color: white;
+  background-color: transparent;
+  border-style: none;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}

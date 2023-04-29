@@ -1,0 +1,46 @@
+.timeline {
+    position: relative;
+    padding: 50px 0;
+    color: white;
+  }
+  
+  .line {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 2px;
+    background-color: black;
+    transform: translateX(-50%);
+  }
+  
+  .event {
+    position: relative;
+    padding: 20px;
+    margin-bottom: 100px;
+    width: 50%;
+    box-sizing: border-box;
+    transition: transform 0.5s ease-in-out;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  .event.left {
+    float: left;
+    clear: both;
+    margin-right: 25%;
+    text-align: right;
+    transform: translateX(-100%);
+  }
+  
+  .event.right {
+    float: right;
+    clear: both;
+    margin-left: 25%;
+    text-align: left;
+    transform: translateX(100%);
+  }
+  
+  .event.active {
+    transform: translateX(0);
+  }
