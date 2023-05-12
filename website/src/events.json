@@ -1,43 +1,49 @@
 [
-    {
-      "date": "January 1, 2022",
-      "title": "Event 1",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        "date": "January 1, 2022",
-        "title": "Event 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      },
-      {
-        "date": "January 1, 2022",
-        "title": "Event 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      },
-      {
-        "date": "January 1, 2022",
-        "title": "Event 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      },
-      {
-        "date": "January 1, 2022",
-        "title": "Event 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      },
-      {
-        "date": "January 1, 2022",
-        "title": "Event 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      },
-      {
-        "date": "January 1, 2022",
-        "title": "Event 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      },
-      {
-        "date": "January 1, 2022",
-        "title": "Event 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      }
-                  
+  {
+    "date": "October 12, 1492",
+    "title": "Christopher Columbus Lands in the Bahamas",
+    "description": "Christopher Colubus, while searching for an alternate route to India, mistakenly arrives in the Bahamas. Upon his arrival, Columbus encountered the indigenous Taino people who have lived there for centuries. Although Columbus had just arrived, he decided to claim the land and its native people as property of Spain. In the coming decades, hundreds of thousands of Taino people were forced into labor and only a few of the original 250,000 survived.",
+    "keywords": [
+      "Settler Colonialism",
+      "Eurocentrism",
+      "Imperialism"
+    ]
+  },
+  {
+    "date": "Late August 1619",
+    "title": "The First Slaves Arrive in America",
+    "description": "In late August of 1619, a ship carrying 20-30 African slaves arrives at Point Comfort in Virginia. This event can be seen as the birth of anti-Black racism in America. Much of the anti-Asian phenomena, such as the model minority myth, can be connected back to anti-Blackness.",
+    "keywords": [
+      "White Supremacy",
+      "Racism",
+      "Capitalism"
+    ]
+  },
+  {
+    "date": "Early 1848",
+    "title": "The Gold Rush Begins",
+    "description": "In January of 1848, a carpenter discovered gold at a place called Sutter's Mill in Coloma, CA. The news of his discovery spread across the US and even to foreign countries. As a result of this finding, thousands of people flocked to California in search of gold. Of the many people, many were Chinese immigrants looking for economic opportunities. In total, over 60,000 Chinese immigrants arrived during the Gold Rush. Unfortunately, the Chinese miners faced much discrimination from the White miners.",
+    "keywords": [
+      "Immigration",
+      "White Supremacy"
+    ]
+  },
+  {
+    "date": "March 3, 1875",
+    "title": "The Page Act",
+    "description": "In January of 1848, a carpenter discovered gold at a place called Sutter's Mill in Coloma, CA. The news of his discovery spread across the US and even to foreign countries. As a result of this finding, thousands of people flocked to California in search of gold. Of the many people, many were Chinese immigrants looking for economic opportunities. In total, over 60,000 Chinese immigrants arrived during the Gold Rush. Unfortunately, the Chinese miners faced much discrimination from the White miners.",
+    "keywords": [
+      "Immigration",
+      "White Supremacy"
+    ]
+  },
+  {
+    "date": "May 6, 1882",
+    "title": "The Chinese Exclusion Act",
+    "description": "In January of 1848, a carpenter discovered gold at a place called Sutter's Mill in Coloma, CA. The news of his discovery spread across the US and even to foreign countries. As a result of this finding, thousands of people flocked to California in search of gold. Of the many people, many were Chinese immigrants looking for economic opportunities. In total, over 60,000 Chinese immigrants arrived during the Gold Rush. Unfortunately, the Chinese miners faced much discrimination from the White miners.",
+    "keywords": [
+      "Immigration",
+      "White Supremacy"
+    ]
+  }
 ]
