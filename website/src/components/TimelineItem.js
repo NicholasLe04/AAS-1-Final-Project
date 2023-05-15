@@ -32,23 +32,23 @@ const Timeline = ({ events }) => {
                     <h3 className="event-title">{event.title}</h3>
                     <div className="event-description">{event.description}</div>
                     <h4>Keywords</h4>
-                    <ul style={{ listStyleType: "none", fontWeight: "100" }}>
+                    <ul>
                         {event.keywords.map((word) => (
                             <li
                                 style={{
                                     display: "inline",
+                                    paddingLeft: "10px",
+                                    paddingRight: "10px"
                                 }}
                             >
                                 <a
-                                    href="#"
+                                    href="definitions"
                                     style={{
                                         textDecoration: "none",
-                                        color: "#071013",
+                                        color: "#C89FA3"
                                     }}
                                 >
-                                    &nbsp;&nbsp;&nbsp;
                                     {word}
-                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </a>
                             </li>
                         ))}

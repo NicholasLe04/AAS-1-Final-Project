@@ -1,4 +1,7 @@
-h1 {
+.header {
+  margin-right: auto;
+  margin-left: auto;
+  width: 100vh;
   text-align: center;
   color: white;
 }

@@ -15,7 +15,6 @@
     "description": "In late August of 1619, a ship carrying 20-30 African slaves arrives at Point Comfort in Virginia. This event can be seen as the birth of anti-Black racism in America. Much of the anti-Asian phenomena, such as the model minority myth, can be connected back to anti-Blackness.",
     "keywords": [
       "White Supremacy",
-      "Racism",
       "Capitalism"
     ]
   },
@@ -31,19 +30,42 @@
   {
     "date": "March 3, 1875",
     "title": "The Page Act",
-    "description": "In January of 1848, a carpenter discovered gold at a place called Sutter's Mill in Coloma, CA. The news of his discovery spread across the US and even to foreign countries. As a result of this finding, thousands of people flocked to California in search of gold. Of the many people, many were Chinese immigrants looking for economic opportunities. In total, over 60,000 Chinese immigrants arrived during the Gold Rush. Unfortunately, the Chinese miners faced much discrimination from the White miners.",
+    "description": "The Page Act of 1875 was one of the first major and targeted anti-immigration laws passed in the US. The passing of this law was intended to prohibit the immigration of Chinese women into the US. The motive behind this restrictions stems from anti-Chinese sentiment which started during the Gold Rush and stereotyped Chinese women as prostitutes and sexually immoral.",
     "keywords": [
       "Immigration",
+      "Orientalism",
       "White Supremacy"
     ]
   },
   {
     "date": "May 6, 1882",
     "title": "The Chinese Exclusion Act",
-    "description": "In January of 1848, a carpenter discovered gold at a place called Sutter's Mill in Coloma, CA. The news of his discovery spread across the US and even to foreign countries. As a result of this finding, thousands of people flocked to California in search of gold. Of the many people, many were Chinese immigrants looking for economic opportunities. In total, over 60,000 Chinese immigrants arrived during the Gold Rush. Unfortunately, the Chinese miners faced much discrimination from the White miners.",
+    "description": "The Chinese Exclusion Act of 1882 placed a 10-year ban on Chinese immigration to the US. Similarly to the Page Act, this act was heavily charged by anti-Chinese sentiment that stemmed from the Chinese immigrants during the Gold Rush. Sentiment towards the Chinese depicted them as dangerous and exotic which are the results of orientalism.",
     "keywords": [
       "Immigration",
+      "Orientalism",
+      "White Supremacy"
+    ]
+  },
+  {
+    "date": "May 5, 1892",
+    "title": "The Geary Act",
+    "description": "The Geary Act was the successor to the Chinese Exclusion Act coming exactly 10 years after. The act extended the ban on Chinese immigration set by the Chinese Exclusion Act for another 10 years. The Geary Act also added the requirement that Chinese people must carry a certificate of identity, similar to a modern-day green card.",
+    "keywords": [
+      "Immigration",
+      "Orientalism",
+      "White Supremacy"
+    ]
+  },
+  {
+    "date": "May 26, 1924",
+    "title": "The Immigration Act of 1924",
+    "description": "The Immigration Act placed heavy restrictions on immigration based off of the country of origin. The standard that this act placed was to allowed 2% of the people of each nationality into the US. However, this act completely banned immigration from many major Asian countries.",
+    "keywords": [
+      "Immigration",
+      "Orientalism",
       "White Supremacy"
     ]
   }
+
 ]

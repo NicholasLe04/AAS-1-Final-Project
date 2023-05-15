@@ -6,7 +6,10 @@ import "./App.css";
 function App() {
     return (
         <BrowserRouter>
-            <h1>ASIAN AMERICAN STUDIES</h1>
+            <div className="header">
+                <h1>ASIAN AMERICAN STUDIES</h1>
+                <h3>By: Nicholas Le</h3>
+            </div>
             <Dashboard />
         </BrowserRouter>
     );
