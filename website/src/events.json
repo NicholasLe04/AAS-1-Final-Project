@@ -66,6 +66,59 @@
       "Orientalism",
       "White Supremacy"
     ]
+  },
+  {
+    "date": "Feb 19, 1942",
+    "title": "The Internment of Japanese Americans",
+    "description": "Following the events of Pearl Harbor, a surge in concern for national security caused President Roosevelt to pass Executive Order 9066. This order authorized the relocation and internment of Japanese Americans, primarily along the west coast. Over the next four years, over 120,000 Japanese individuals, of whom many were American citizens, were forcefully placed into remote internment camps.",
+    "keywords": [
+      "Orientalism",
+      "White Supremacy"
+    ]
+  },
+  {
+    "date": "Nov 6, 1968",
+    "title": "The Third World Liberation Front Strikes of 1968",
+    "description": "These were a series of protests and strikes by the Third World Liberation Front, a student group formed by minorities at San Francisco State College and UC Berkeley. These strikes were held to challenge the Eurocentric curriculum and education that neglected their cultures. As a result of these strikes, San Francisco State College agreed to establish the first College of Ethnic Studies which set an example for many to come.",
+    "keywords": [
+      "Eurocentrism",
+      "White Supremacy",
+      "Orientalism"
+    ]
+  },
+  {
+    "date": "Apr 30, 1975",
+    "title": "The End of the Vietnam War",
+    "description": "After 20 years of the Vietnam War, it all came to an end at the fall of the South Vietnamese capitol, Saigon. Following the communist victory in Vietnam, hundreds of thousands of South Vietnamese refugees fled, many of which, ended up in the US.",
+    "keywords": [
+      "Immigration",
+      "Eurocentrism"
+    ]
+  },
+  {
+    "date": "August 10, 1988",
+    "title": "The Civil Liberties Act of 1988",
+    "description": "This act was passed by Congress to acknowledge the injustice of Japanese Internment and granted reparations of $20,000 to those who were wrongfully interned. However, it has been said that this amount is insufficient to compensate for the grave injustice.",
+    "keywords": [
+      "Orientalism",
+      "White Supremacy"
+    ]
+  },
+  {
+    "date": "September 11, 2001",
+    "title": "The September 11 Attacks",
+    "description": "On September 11, 2001, 19 terrorists associated with Al Qaeda hijacked four commericial flights. Two of airplanes were intentionally crashed into the Twin Towers in New York City, one was intentionally crashed into the Pentagon, and the other crashed in a field after a struggle onboard between the hijackers and passengers. Along with the tragic death count, this event laid heavy burdens upon Muslim and Arab Americans who began to be racial profiled and spied upon as a result of the heightened national security.",
+    "keywords": [
+      "Orientalism"
+    ]
+  },
+  {
+    "date": "January 30, 2020",
+    "title": "The Start of the COVID-19 Pandemic",
+    "description": "The COVID-19 or the novel Coronavirus outbreak began in the city of Wuhan, China and eventually spread to become a worldwide pandemic. In the US, Asian Americans began to face discrimination from those who had felt that Asians were to blame for the pandemic. This led to a significant rise in Asian hate crimes and eventually to the Stop Asian Hate movement in 2021 which unified not only Asians, but created solidarity between other minority groups as well.",
+    "keywords": [
+      "Orientalism",
+      "White Supremacy"
+    ]
   }
-
 ]
